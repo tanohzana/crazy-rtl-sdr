@@ -1,0 +1,14 @@
+{
+  "name": "wave_antena",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Florian Adonis<tanohzana@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.test.js"
+  },
+  "dependencies": {
+    "rtl-sdr": "^0.1.4"
+  }
+}

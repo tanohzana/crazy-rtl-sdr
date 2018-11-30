@@ -1,1 +1,1 @@
-# crazy-rtl-sdr
+# crazy-rtl-sdr 📡 ⚡️
